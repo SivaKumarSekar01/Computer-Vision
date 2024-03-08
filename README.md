@@ -1,0 +1,1 @@
+This repository contains various Python scripts and Jupyter Notebooks related to computer vision and object detection tasks. It includes projects on crack detection, fire and smoke detection, object detection with measurement capabilities, and potentially other areas based on the uploaded files.
